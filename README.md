@@ -166,7 +166,7 @@ The output is an image with the classified bays.
 </p>
 <br>
 
-##RESULTS
+## RESULTS
 
 Inside the folders *data_files/point_cloud_1/results* and *data_files/point_cloud_2/results* you can find the results of the classification. 
 Two point clouds are available by following these links:
